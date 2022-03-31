@@ -1,0 +1,14 @@
+{
+  "name": "ncmupload",
+  "version": "1.0.0",
+  "description": "Upload audio file to Netease Cloud Muisc via NeteaseCloudMusicApi.",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coo11",
+  "license": "MIT",
+  "dependencies": {
+    "NeteaseCloudMusicApi": "^4.5.10"
+  }
+}
